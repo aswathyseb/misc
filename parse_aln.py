@@ -44,7 +44,7 @@ def parse(bam, chroms):
 
 
 if __name__ == "__main__":
-    bam = "canu_20kb.bam"
+    bam = "test.bam"
     chroms = "test.txt"
     #bam = sys.argv[1]
     #chroms = sys.argv[2]
